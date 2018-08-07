@@ -6,6 +6,8 @@ def simple_curfew_checker(time)
   else
     time_remaining -
   end
+end
+simple_curfew_checker(time)
 
 def martha(number)
   if number == 3
