@@ -17,4 +17,4 @@ def martha(number)
   else
 end
 end
-# martha(3)
+martha(3)
